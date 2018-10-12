@@ -6,9 +6,9 @@
  *
  */
 definition(
-    name: "Hunter Douglas Platinum Gateway",
+    name: "Platinum Connect",
     namespace: "schwark",
-    author: "Schwark Satyavolu",
+    author: "schwark",
     description: "Allows you to connect your Hunter Douglas Platinum Gateway shades with SmartThings and control them from your Things area or Dashboard in the SmartThings Mobile app. Adjust colors by going to the Thing detail screen for your PlatinumGateway shades (tap the gear on PlatinumGateway tiles).",
     category: "SmartThings Labs",
     iconUrl: "https://lh5.ggpht.com/FN3-xG6R0q9VjJHYE1iK5K2J11rTphiDEePr8XluI6o_s52xfPoHwt0-TZxc0qlVSQ=w300",
