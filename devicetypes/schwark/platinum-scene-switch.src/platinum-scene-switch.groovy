@@ -22,7 +22,7 @@
  */
 
 metadata {
-	definition (name: "Platinum Gateway Scene Switch", namespace: "schwark", author: "Schwark Satyavolu") {
+	definition (name: "Platinum Scene Switch", namespace: "schwark", author: "schwark") {
 	capability "Switch"
 	command "setSceneNo", ["string"]
 	command "runScene"

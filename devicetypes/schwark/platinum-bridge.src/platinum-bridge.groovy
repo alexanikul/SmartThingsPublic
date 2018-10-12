@@ -22,7 +22,7 @@
  */
 
 metadata {
-	definition (name: "Platinum Gateway Bridge", namespace: "schwark", author: "Schwark Satyavolu") {
+	definition (name: "Platinum Bridge", namespace: "schwark", author: "schwark") {
 	command "makeNetworkId", ["string","string"]
 	command "runScene", ["string"]
 	command "windowControl", ["string", "string"]

@@ -22,7 +22,7 @@
  */
 
 metadata {
-	definition (name: "Platinum Gateway Shade Switch", namespace: "schwark", author: "Schwark Satyavolu") {
+	definition (name: "Platinum Shade Switch", namespace: "schwark", author: "schwark") {
 	capability "Switch"
 	capability "Switch Level"
 	command "setShadeNo", ["string"]
